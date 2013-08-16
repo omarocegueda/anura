@@ -1,4 +1,4 @@
-#This is best a comment to test git commands#
+#This is just a comment to test git commands#
 #Another comment...#
 #Third!!#
 cmake_minimum_required(VERSION 2.8)
