@@ -1,0 +1,17 @@
+CMakeLists.txt
+CMakeLists.txt.orig
+dimreductionlib
+FastEMD
+HARDILib
+imageiolib
+MultiTensorFieldExplorer
+newFileLocalBranch2.txt
+niftilib
+NNLibrary
+optimizationlib
+procimlib
+sparselib
+third_party
+timelib
+zlib
+znzlib
